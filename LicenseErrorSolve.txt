@@ -1,0 +1,7 @@
+找到这个位置：
+C:\Users\Jeejio\AppData\Roaming\Scooter Software
+里面有Beycond Compare 4文件夹，把整个文件夹删掉
+
+
+参考网址：
+https://blog.csdn.net/sinat_29891353/article/details/83989038
